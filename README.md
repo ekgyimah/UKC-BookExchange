@@ -13,7 +13,7 @@ App features:
   to the users feed based on their preference
   - In App chat to allow users to exchange contact information and a search.
 
-The UI was developed entirely using the androdid SDK.
+The UI was developed entirely using the android SDK.
 
 This was my first fully working Android App. Please, any suggestions with regards to the code and the implementation of the 
 features are welcome. 
