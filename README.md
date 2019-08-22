@@ -1,10 +1,10 @@
-# Android_Application_Final_YearProject
+# UKC-BookExchange
 
 
 This is an Android application I worked on as part of a group for my 
 final year University project.
-The purpose of the App is to be used as a platform for students to sell
-and buy second hand books.
+The purpose of the App is to be used as a platform for students to buy
+and sell second hand books.
 
 App features: 
   - ISBN scanner to allow users to scan the ISBN barcode of a book and 
