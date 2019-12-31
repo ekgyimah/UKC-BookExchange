@@ -1,7 +1,7 @@
 # UKC-BookExchange
 
 
-This is an Android application I worked on as part of a group for my 
+This is an Android application I worked on for my 
 final year University project.
 The purpose of the App is to be used as a platform for students to buy
 and sell second hand books.
